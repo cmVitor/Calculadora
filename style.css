@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.nome{
+    font-size: 25px;
+}
 .fundo{
     background-image: linear-gradient(45deg, black, rgb(147, 20, 220));
     height: 100vh;
